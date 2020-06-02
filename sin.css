@@ -13,7 +13,7 @@ table.table1 {margin-left: auto;
     table tr#Ftier  {background-color:#7768AE;}
     table tr#Other  {background-color:#616065;}
 
-table.table2 {margin-left: auto}
+table.table2 {margin-right: auto}
 
 ul {
     position: fixed;
