@@ -2,10 +2,10 @@ h1 {
     text-align: center;
 }
 
-body {
-    background-color: 616065;
-    text-align: center;
-}
+/* body { */
+    /* background-color: 616065 */
+    /* text-align: center; */
+/* }
 .navbar-expand-sm {
     background-color: 928F94;
     border-color: #E7E7E7;
@@ -21,16 +21,28 @@ table, th, td {
     border-collapse: collapse;
     margin-left: auto;
     margin-right: auto;
-}
-ul { 
-    display: table;
-    margin: 0 auto;
-}
+} */
+    table          {border:ridge 0px #000;}
+    table td       {border:inset 0px #000;}
+    table tr#Stier  {background-color:#E15554;}
+    table tr#Atier  {background-color:#E1893F;}
+    table tr#Btier  {background-color:#E1BC29;}
+    table tr#Ctier  {background-color:#3BB273;}
+    table tr#Dtier  {background-color:#4D9DE0;}
+    table tr#Ftier  {background-color:#7768AE;}
+    table tr#Other  {background-color:#616065;}
+
+ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
 li {
     display: inline;
   }
 
-.boxes { 
+/* .boxes { 
     background-color: rgba(255, 255, 255, 0);
     padding: 40px;
     margin: 20px;
@@ -44,4 +56,4 @@ li {
     margin-left: 40px;
     margin-right: 40px;
     border-radius: 20%;
-}
+} */
