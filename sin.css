@@ -21,7 +21,8 @@ table, th, td {
     border-collapse: collapse;
     margin-left: auto;
     margin-right: auto;
-} */
+} */table {margin-left:auto; 
+          margin-right:auto;}
     table td       {border:inset 0px #000;}
     table tr#Stier  {background-color:#E15554;}
     table tr#Atier  {background-color:#E1893F;}
