@@ -2,12 +2,7 @@ h1 {
     text-align: center;
 }
 
- body { 
-     background-color: 616065 
-     text-align: center; 
- }
-
-table {margin-left: auto;
+table.table1 {margin-left: auto;
     margin-right: auto;}
     table td       {border:inset 0px #000;}
     table tr#Stier  {background-color:#E15554;}
@@ -17,6 +12,8 @@ table {margin-left: auto;
     table tr#Dtier  {background-color:#4D9DE0;}
     table tr#Ftier  {background-color:#7768AE;}
     table tr#Other  {background-color:#616065;}
+
+table.table2 {margin-left: auto}
 
 ul {
     position: fixed;
