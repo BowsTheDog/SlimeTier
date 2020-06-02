@@ -5,21 +5,31 @@ h1 {
 }
 
 table.table1 {margin-left: auto;
-    margin-right: auto;}
-    table tr#Stier  {background-color:#E15554;}
-    table tr#Atier  {background-color:#E1893F;}
-    table tr#Btier  {background-color:#E1BC29;}
-    table tr#Ctier  {background-color:#3BB273;}
-    table tr#Dtier  {background-color:#4D9DE0;}
-    table tr#Ftier  {background-color:#7768AE;}
-    table tr#Other  {background-color:#616065;}
+    margin-right: auto}
+    table tr#Stier  {height: 120px;
+        background-color:#E15554;}
+    table tr#Atier  {height: 120px;
+        background-color:#E1893F;}
+    table tr#Btier  {height: 120px;
+        background-color:#E1BC29;}
+    table tr#Ctier  {height: 120px;
+        background-color:#3BB273;}
+    table tr#Dtier  {height: 120px;
+        background-color:#4D9DE0;}
+    table tr#Ftier  {height: 120px;
+        background-color:#7768AE;}
+    table tr#Other  {height: 120px;
+        background-color:#616065;}
 
 table.table2 {margin-left: auto;
     margin-right: auto;
   border: 2px solid #616065;
   background-color: #D6D5D7;}
 
-td.td2 {text-align: center}
+td.td2 {text-align: center;
+font-size: 35px}
+
+td.td3 {text-align: center;}
 
 th.th2 {width: 150px;
 text-align: center}
