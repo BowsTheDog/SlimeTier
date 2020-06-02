@@ -1,3 +1,5 @@
+body {background-color: #928F94;}
+
 h1 {
     text-align: center;
 }
@@ -14,6 +16,8 @@ table.table1 {margin-left: auto;
     table tr#Other  {background-color:#616065;}
 
 table.table2 {margin-right: auto}
+
+td.td2 {text-align: center}
 
 ul {
     position: fixed;
