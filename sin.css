@@ -1,4 +1,4 @@
-body {background-color: #928F94;}
+body {background-color: #A4A1A5;}
 
 h1 {
     text-align: center;
@@ -15,16 +15,16 @@ table.table1 {margin-left: auto;
     table tr#Ftier  {background-color:#7768AE;}
     table tr#Other  {background-color:#616065;}
 
-table.table2 {margin-right: auto}
+table.table2 {margin-right: auto;
+  border:2px solid #616065;
+  background-color: #C2C1C3;}
 
 td.td2 {text-align: center}
 
 ul {
     position: fixed;
     top: 0;
-    width: 100%;
-  }
+    width: 100%;}
 
 li {
-    display: inline;
-  }
+    display: inline;}
