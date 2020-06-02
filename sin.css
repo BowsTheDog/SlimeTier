@@ -16,10 +16,12 @@ table.table1 {margin-left: auto;
     table tr#Other  {background-color:#616065;}
 
 table.table2 {margin-right: auto;
-  border:2px solid #616065;
-  background-color: #C2C1C3;}
+  border: 2px solid #616065;
+  background-color: #D6D5D7;}
 
 td.td2 {text-align: center}
+
+th.th2 {width: 130px}
 
 ul {
     position: fixed;
